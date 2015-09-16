@@ -5,12 +5,6 @@
 # files for the dex VM
 *.dex
 
-# Java class files
-*.class
-.gradle
-local.properties
-build/*
-
 # generated files
 bin/
 gen/
